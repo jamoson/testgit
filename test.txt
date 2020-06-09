@@ -3,4 +3,5 @@ This is the second line of test in it.
 Linux adderar
 add line
 Add a master change from github
-Conflicting change in the blipp branch
+Conflicting change in the blipp branch -- Another new master change L6
+
