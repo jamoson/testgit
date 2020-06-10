@@ -2,9 +2,3 @@ hello
 again
 super
 duper
-<<<<<<< /mnt/git/object/9b942263b29eeda23d7285d70cbbdbae346c0b0a/tree/newmaster.txt
-blipper
-||||||| /mnt/git/object/efe72e50065036a84f572949d0f0f347eb70d68e/tree/newmaster.txt
-=======
-mästare
->>>>>>> /mnt/git/object/7b977fd898f31c16afcf892e7834a5d4041f7caa/tree/newmaster.txt
