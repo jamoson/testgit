@@ -2,3 +2,5 @@ hello
 again
 super
 duper
+mästare
+addition in master
