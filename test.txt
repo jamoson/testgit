@@ -1,6 +1,6 @@
 This is a not so interesting test file.
 This is the second line of test in it.
 Linux adderar
-add line
+add line flipp
 Add a master change from github
 Another new master change L6
