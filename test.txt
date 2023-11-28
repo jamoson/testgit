@@ -6,3 +6,4 @@ Add a master change from github
 Another new master change L6
 A new line is added in the master branch.
 Another new line in the master branch.
+A third new line in master
