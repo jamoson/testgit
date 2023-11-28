@@ -9,3 +9,6 @@ Another new line in the master branch.
 A third new line in master
 some new line
 some new line
+some new line
+some new line
+some new line
